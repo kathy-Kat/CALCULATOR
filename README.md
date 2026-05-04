@@ -1,6 +1,8 @@
 ## 🧮 Calculating Machine (Calculator)
 
-A simple, responsive web-based calculator built to perform basic arithmetic operations quickly and efficiently. This project demonstrates fundamental JavaScript logic, DOM manipulation, and clean UI design.
+- A simple, responsive web-based calculator built to perform basic arithmetic operations quickly and efficiently. 
+- This project demonstrates fundamental JavaScript logic, DOM manipulation, and clean UI design.
+<br>
 
 🔗 **Live Demo:** https://calculatingmachine1.netlify.app/
 <br>
@@ -18,3 +20,6 @@ A simple, responsive web-based calculator built to perform basic arithmetic oper
 - CSS
 - JavaScript
 - Hosted on Netlify
+
+## 📸 Preview
+<img width="766" height="578" alt="image" src="https://github.com/user-attachments/assets/eddc59ea-9382-47bf-8796-0f7a738270d6" />
