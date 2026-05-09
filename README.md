@@ -4,7 +4,7 @@
 - This project demonstrates fundamental JavaScript logic, DOM manipulation, and clean UI design.
 <br>
 
-🔗 **Live Demo:** https://calculatingmachine1.netlify.app/
+🔗 **Live Demo:** https://calculatingmachine98.netlify.app/
 <br>
 
 ## 🚀 Features
@@ -22,4 +22,5 @@
 - Hosted on Netlify
 
 ## 📸 Preview
-<img width="766" height="578" alt="image" src="https://github.com/user-attachments/assets/eddc59ea-9382-47bf-8796-0f7a738270d6" />
+<img width="805" height="841" alt="image" src="https://github.com/user-attachments/assets/4806846c-d43c-402b-91a3-2b2e9c8de693" />
+
