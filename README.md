@@ -15,6 +15,7 @@
 - Lightweight and fast loading
 <br>
 
+
 ## 🛠️ Built With...
 - HTML5
 - CSS
@@ -22,19 +23,21 @@
 - Netlify (Deployment)
 <br>
 
+
 ## 💡 Purpose
 This project was built as a practice application to strengthen core front-end development skills, including DOM manipulation, event handling, and UI design fundamentals.
 <br>
+
 
 ## 🌐 Deployment
 The project is deployed using Netlify for continuous hosting and easy access across devices.
 <br>
 
-## 📈 Future Improvements
-Add scientific calculator functions
-Add calculation history
-Improve UI animations
-Dark mode toggle
+## 📈 Future Improvements...
+- Add scientific calculator functions
+- Add calculation history
+- Improve UI animations
+- Dark mode toggle
 
 
 ## 📸 Preview
