@@ -26,11 +26,13 @@
 
 ## 💡 Purpose
 This project was built as a practice application to strengthen core front-end development skills, including DOM manipulation, event handling, and UI design fundamentals.
+
 <br>
 
 
 ## 🌐 Deployment
 The project is deployed using Netlify for continuous hosting and easy access across devices.
+
 <br>
 
 ## 📈 Future Improvements...
@@ -38,7 +40,7 @@ The project is deployed using Netlify for continuous hosting and easy access acr
 - Add calculation history
 - Improve UI animations
 - Dark mode toggle
-
+ <br>
 
 ## 📸 Preview
 <img width="805" height="841" alt="image" src="https://github.com/user-attachments/assets/4806846c-d43c-402b-91a3-2b2e9c8de693" />
