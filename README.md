@@ -20,6 +20,7 @@
 - CSS
 - JavaScript (Vanilla JS)
 - Netlify (Deployment)
+<br>
 
 ## 💡 Purpose
 This project was built as a practice application to strengthen core front-end development skills, including DOM manipulation, event handling, and UI design fundamentals.
